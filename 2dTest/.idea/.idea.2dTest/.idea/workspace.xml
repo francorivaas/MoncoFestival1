@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f346ec-73f3-4737-bde8-60ff4f4652ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/- Franco/ScriptsFraco/EnemiesAndObstacles/EnemySearch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/FollowIA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/_Main/Scripts/Enemies/RotationEqualIdentity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/- Franco/ScriptsFraco/CharacterScripts/TopDownCharacterMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/_Main/Scripts/Enemies/FollowEnemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/_Main/Scripts/Characters &amp; NPC/CharacterMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/ClaseProgra1/Assets/_Main/Scripts/Enemies/DoDamage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/LookAtPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/_Main/Scripts/Various/FlipSpriteX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/GenericControllers/WaveSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/ClaseProgra1/Assets/_Main/Scripts/Bullets/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Character/FlipSprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/Loop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/ClaseProgra1/Assets/_Main/Scripts/Enemies/TorretController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/EnemyLifeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/Programacion1-TP-Rivas-Gandolfo/Assets/_Main/Scripts/Characters &amp; NPC/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/ClaseProgra1/Assets/_Main/Scripts/Bullets/PlayerBullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GitHub/ClaseProgra1/Assets/_Main/Scripts/Player/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/TurretShoot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/LifeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/DoDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/BulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/CharacterAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/DoDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/GenericControllers/WaveSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/FollowIA.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Character/FlipSprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/Loop.cs" />
+        <option value="$PROJECT_DIR$/Assets/WinTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/LookAtPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/BulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/EnemyLifeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/LifeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Life/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Character/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Character/CharacterAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/Enemies/TurretShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Main/Scripts/CONTROLLERS/GenericControllers/WinTrigger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hL36axJxQBrhdNBEjRh0l3t8cw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f346ec-73f3-4737-bde8-60ff4f4652ad" name="Default Changelist" comment="" />
+      <created>1599776370945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599776370945</updated>
+      <workItem from="1599776388339" duration="2357000" />
+      <workItem from="1599912874184" duration="1442000" />
+      <workItem from="1599929838329" duration="3997000" />
+      <workItem from="1599935438182" duration="2025000" />
+      <workItem from="1599947975385" duration="1216000" />
+      <workItem from="1600007157738" duration="3023000" />
+      <workItem from="1600013720057" duration="1386000" />
+      <workItem from="1600116357496" duration="3635000" />
+      <workItem from="1600123229214" duration="1292000" />
+      <workItem from="1600293219191" duration="1728000" />
+      <workItem from="1600358768127" duration="2392000" />
+      <workItem from="1600376199065" duration="2835000" />
+      <workItem from="1600551839780" duration="3573000" />
+      <workItem from="1600704546717" duration="8390000" />
+      <workItem from="1601502558466" duration="5010000" />
+      <workItem from="1601567504540" duration="820000" />
+      <workItem from="1602106708046" duration="3872000" />
+      <workItem from="1602116038982" duration="4466000" />
+      <workItem from="1602169338315" duration="2339000" />
+      <workItem from="1602191211815" duration="1875000" />
+      <workItem from="1602251637456" duration="3401000" />
+      <workItem from="1602290823060" duration="2633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
